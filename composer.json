@@ -1,6 +1,6 @@
 {
     "name": "basster/otr-renamer",
-    "description": "File renamer for onlinetvrecorder.com tv-series",
+    "description": "File renamer for onlinetvrecorder.com tv-shows",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
